@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#F7F7F7</color>
+    <color name="title_color">#212121</color>
+    <color name="text_color">#455A64</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="spinner_background_pressed">#FFC107</color>
+    <color name="spinner_background_default">#FFFFFF</color>
+    <color name="spinner_stroke_pressed">#FF9800</color>
+    <color name="spinner_stroke_default">#CCCCCC</color>
+    <color name="button_background_pressed">#9C27B0</color>
+    <color name="button_background_default">#4CAF50</color>
+    <color name="button_stroke_pressed">#8B0A1A</color>
+    <color name="button_stroke_default">#3E8E41</color>
+    <color name="button_gradient_start">#FFC107</color>
+    <color name="button_gradient_end">#FF9800</color>
+    <color name="spinner_popup_background">#F2F2F2</color>
+</resources>
